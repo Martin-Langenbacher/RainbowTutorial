@@ -3,4 +3,5 @@ lila
 rot
 grün
 gelb
+grün
 Das sind die Farben des Regenbogens.
