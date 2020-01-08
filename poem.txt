@@ -93,6 +93,15 @@ a) git init (im Verzeichnis): --> aber jetzt ist es ein git-repository...
 b) save
 c) git add . (oder git add file.txt)
 d) git commit -m "Message ..."
+e) git remote add origin git@github.com:Martin-Langenbacher/Rainbow3-dance.git
+   --> I have to make the URL on github the origin remote for this specific folder on my laptop!
+   --> This made the connection!
+   --> Beim Anlegen des github-repositories muss das Verzeichnis remote (github) leer sein, also ohne READMe.datei !!!
+   
+f) git push origin master (and now I can push it into github!)
+
+==> When I changed something on github, I can PULL it to my computer again!!!
+g) git pull origin master
 
 
 
