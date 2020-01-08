@@ -5,6 +5,8 @@ grün
 gelb
 grün
 pink
+black
+white
 Das sind die Farben des Regenbogens.
 
 Notes:
