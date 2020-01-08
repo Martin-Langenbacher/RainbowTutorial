@@ -12,3 +12,7 @@ Notes:
 2) Commit -> below......
 
 3) Now, branch --> at the moment still in Branch: master
+4) Now I am working on the branch: "FirstBranch"
+
+5) pull request AND
+6) merge
