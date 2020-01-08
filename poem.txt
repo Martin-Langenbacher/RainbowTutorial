@@ -10,3 +10,5 @@ Das sind die Farben des Regenbogens.
 Notes:
 1) Repository
 2) Commit -> below......
+
+3) Now, branch --> at the moment still in Branch: master
