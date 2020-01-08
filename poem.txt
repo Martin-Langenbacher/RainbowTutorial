@@ -14,6 +14,12 @@ Frank color
  zweite Änderung
  
  ich akzeptiere alle Änderungen
+ 
+  und noch ein Change
+  
+  ... nach dem forken ..
+  
+  
 
 
 black
@@ -39,7 +45,4 @@ Notes:
   ==> pull request because the other can only ask me if he can deliver something...
   
 8) Hier geht es weiter mit der "ThirdBranch" !!!!
-
-
-nummer 9
-
+9) Eigener Pull request und continue with Master & ==> Look at issues...!
