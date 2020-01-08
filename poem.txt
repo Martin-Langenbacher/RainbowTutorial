@@ -75,12 +75,17 @@ Notes:
 --> git push origin master      (sending to github into the branch "master"!
 --> git pull      (getting from github)
 
-=========================================================
+=====================================================================================================
 --> Einfacher Weg: 
 a) NEW repository on gitHUB, then copy the link and --> git clone git@github.com:Martin...../Rainbow-Song.git
+
 b) git status --> rot: "es wurde etwas geändert"
 c) git add .
-d) git push (origin master)
+d) git commit -m "Message..."
+e) git push (origin master)
+
+
+
 
 
 
