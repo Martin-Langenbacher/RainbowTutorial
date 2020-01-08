@@ -38,6 +38,8 @@ Notes:
 7c) NOW: Fork & Pull Request...!
   --> Somebody can work on it on his account... (to fork a repository)
   --> Now you can send a pull request...
+  
+  
   ==> pull request because the other can only ask me if he can deliver something...
   
 8) Hier geht es weiter mit der "ThirdBranch" !!!!
@@ -52,4 +54,4 @@ Notes:
 - 
 
 
-
+12) ---------------------------
