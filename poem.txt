@@ -81,11 +81,18 @@ a) NEW repository on gitHUB, then copy the link and --> git clone git@github.com
 
 b) git status --> rot: "es wurde etwas geändert"
 c) git add .
-d) git commit -m "Message..."
+d) git commit -m "Message..." (git commit -a ==> alles wir "ge-added"...)
 e) git push (origin master)
 
 
+=====================================================================================================
+--> Datei bereis auf dem eigenen Computer vorhanden:
 
+a) git init (im Verzeichnis): --> aber jetzt ist es ein git-repository...
+
+b) save
+c) git add . (oder git add file.txt)
+d) git commit -m "Message ..."
 
 
 
