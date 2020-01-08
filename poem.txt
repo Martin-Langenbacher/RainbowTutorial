@@ -43,5 +43,6 @@ Notes:
   --> Somebody can work on it on his account... (to fork a repository)
   --> Now you can send a pull request...
   ==> pull request because the other can only ask me if he can deliver something...
-
-8) Continue with Master & ==> Look at issues...!
+  
+8) Hier geht es weiter mit der "ThirdBranch" !!!!
+9) Eigener Pull request und continue with Master & ==> Look at issues...!
