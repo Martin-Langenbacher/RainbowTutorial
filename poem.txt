@@ -6,3 +6,7 @@ gelb
 grün
 pink
 Das sind die Farben des Regenbogens.
+
+Notes:
+1) Repository
+2) Commit -> below...
