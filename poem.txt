@@ -18,3 +18,7 @@ Notes:
 6) merge
 
 7) I added the new Second Branch
+
+
+
+pp) Änderung im 2nd branch, aber ohne die Neuerungen von 8-10) im Master...!
