@@ -5,6 +5,12 @@ grün
 gelb
 grün
 pink
+
+
+Frank color
+
+
+
 Das sind die Farben des Regenbogens.
 
 Notes:
