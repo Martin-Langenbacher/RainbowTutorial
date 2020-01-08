@@ -5,22 +5,16 @@ grün
 gelb
 grün
 pink
-
+===================================================================
 
 
 Frank color
 ----> ML: Das war super Frank !!!!!!!!!!!!!!!!!!!!
- 
  zweite Änderung
- 
  ich akzeptiere alle Änderungen
- 
   und noch ein Change
-  
   ... nach dem forken ..
-  
-  
-
+*************************************************************
 
 black
 white
@@ -47,8 +41,11 @@ Notes:
 8) Hier geht es weiter mit der "ThirdBranch" !!!!
 9) Eigener Pull request und continue with Master & ==> Look at issues...!
 
+10) Ich arbeite lieber im Master... die letzte Version...
 
+11) Now with command-line:
 
+- help
+- clear
+- 
 
-==========================================================================
---> 3rd
