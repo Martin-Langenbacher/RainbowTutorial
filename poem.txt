@@ -47,14 +47,54 @@ Notes:
 
 10) Ich arbeite lieber im Master... die letzte Version...
 
-11) Now with command-line:
-
+11) Now within the command-line:
+=========================================================
 - help
-- clear
-- 
+- clear     --> Bildschirm löschen
+- cd        --> Verzeichnis wächseln
+- pwd       --> Zeigt directory, worin ich arbeien...
+- ls        --> Liste der projecte
+- ls -all   --> alle infos
+- (magical key): --> TAB --> ergänzt...
+- (magical key): --> Up- and Down-Arrows...
+=========================================================
+
+12) Git-command-line:  --> working on the own Laptop!
+=========================================================
+- git (only)    --> Allgemeine Git-Befehle!
+===> You need a folder on your computer, which is a git repository !!!
+
+--> git init      (better start on GitHub and download it on your computer...!)
+--> git clone     (you get a copy from GitHub to your computer...!
+--> git status    (you have to be in a git repository !)
+--> git commit -a -m "message added...!" (-a means all; -m message)
+--> git commit --list
+--> git log -2    (shows the last two commits!)  --> :Q to go out of it....
+
+===> gitHub is remote for "git push"
+--> git push origin master      (sending to github into the branch "master"!
+--> git pull      (getting from github)
+
+=========================================================
+--> Einfacher Weg: 
+a) 
 
 
-12) ---------------------------
-13) ................
-14) ********
-15) ===================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
