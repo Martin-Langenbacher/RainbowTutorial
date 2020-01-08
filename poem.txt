@@ -31,9 +31,11 @@ Notes:
 5) pull request AND
 6) merge
 
-
 7a) I added the new Second Branch
-7b) NOW: Fork & Pull Request...!
+  --> ZwischenSchritt: --> Änderung im 2nd branch, aber ohne die Neuerungen von 8-10) im Master...!
+
+7b) I added the new Second Branch
+7c) NOW: Fork & Pull Request...!
   --> Somebody can work on it on his account... (to fork a repository)
   --> Now you can send a pull request...
   ==> pull request because the other can only ask me if he can deliver something...
@@ -48,4 +50,6 @@ Notes:
 - help
 - clear
 - 
+
+
 
