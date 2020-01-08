@@ -7,9 +7,16 @@ grün
 pink
 
 
-Frank color
- zweite Änderung
 
+Frank color
+ 
+ zweite Änderung
+ 
+ ich akzeptiere alle Änderungen
+
+
+black
+white
 
 Das sind die Farben des Regenbogens.
 
@@ -22,3 +29,5 @@ Notes:
 
 5) pull request AND
 6) merge
+
+7) I added the new Second Branch
