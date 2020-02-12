@@ -105,15 +105,17 @@ g) git pull origin master
 
 
 
+=====================================================================================================
+==> Merge
 
-
-
-
-
-
-
-
-
+a) git checkout feature/sprint5  
+b) git push --set-upstream origin feature/sprint5
+c) git branch --set-upstream-to=origin/feature/sprint5 feature/sprint5
+        --> (2x feature/sprint5...)
+d) git checkout feature/password
+e) git merge feature/sprint5
+        --> (ich bin auf branch .../password und merge von feature/sprint5 rein)
+f) code src/main/resources/templates/user/edit.html
 
 
 
