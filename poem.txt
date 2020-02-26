@@ -117,6 +117,22 @@ e) git merge feature/sprint5
         --> (ich bin auf branch feature/password und merge von feature/sprint5 rein)
 f) code src/main/resources/templates/user/edit.html
 
+=====================================================================================================
+==> andere wichtige Befehle:
+1) a) git checkout -b martin/training2 (macht einen neuen Branch "martin/taining2")
+   b) git push und dann
+   c) git push --set-upstream origin martin/training2 (nun ist auch der upstream da --> in GitHub vorhanden...)
+   
+2) code src/main/resources/templates/changePw.html (öffnet changePW.html damit man es ändern kann...
+
+3) mysql -u root -p (startet mysql)
+
+4) mvn spring-boot:run (startet spring aus der Comando-Zeile: Wichtig ist im richtigen Verzeichnis zu sein)
+
+5) curl http://localhost:8080/books (_______) --> wird nachgereicht !
+
+
+
 
 
 
